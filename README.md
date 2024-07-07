@@ -74,5 +74,9 @@ This architecture illustrates a CRUD application built using Flask, PostgreSQL, 
 The setup leverages Docker for containerization, Flask for the API, PostgreSQL for the database, and SQLAlchemy for ORM. Postman and DBeaver are used for API testing and database management, ensuring a consistent development environment and simplifying deployment.
 
 
-
+#### References
+- https://www.edureka.co/blog/what-is-rest-api/
+- https://www.youtube.com/watch?v=fHQWTsWqBdE&t=103s
+- https://app.diagrams.net/
+- 
 
